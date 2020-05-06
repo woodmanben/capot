@@ -1,0 +1,2 @@
+# capot
+An AI game
