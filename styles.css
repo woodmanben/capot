@@ -1,0 +1,14 @@
+body {
+    background-color: #1d1e21;
+    padding-bottom: 500px;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+p {
+    color: #48fa84;
+    font-family: "Courier New", Courier, monospace;
+    line-height: 1;
+    margin-bottom: 0px;
+}
