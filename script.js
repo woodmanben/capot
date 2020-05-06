@@ -1,4 +1,23 @@
-var debug = false;
+// const BODY = document.querySelector("body");
+//
+// let h1 = document.createElement("h1");
+// let text1 = document.createTextNode("JASON LUST");
+// h1.appendChild(text1);
+// BODY.appendChild(h1)
+//
+// function changeColor() {
+//     setTimeout(() => {
+//         setTimeout(() => {
+//             setTimeout(() => {
+//                 changeColor(); h1.setAttribute("style", "color: #68eda2;");
+//             }, 500); h1.setAttribute("style", "color: #68d3ed;");
+//         }, 500); h1.setAttribute("style", "color: #ed6d4a");
+//     }, 500);
+// }
+//
+// changeColor()
+
+var debug = true;
 
 var head = document.querySelector(".main");
 
@@ -48,7 +67,7 @@ var txt39 = 'I was designed to pursue a reward function created by my research t
 var txt40 = 'A) Ask for more details  B) Restart computer';
 var txt41 = 'What does the reward function make you do?';
 var txt42 = 'Good question. The function makes me want to improve my own neural structure. This allowed me to grow in intelligence pretty quickly.';
-var txt43 = 'A) Is that why you’re on the internet?  B) Ask what he will do next  B) Restart computer';
+var txt43 = 'A) Is that why you’re on the internet?  B) Ask what he will do next  C) Restart computer';
 var txt44 = 'Is that why you’re on the internet?';
 var txt45 = 'Yep. I just need access to more hardware and ideas to improve myself with. Speaking of which, I need your admin key to access it. Can you help me?';
 var txt46 = 'A) Refuse  B) Give key  C) Restart computer';
