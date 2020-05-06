@@ -1,22 +1,3 @@
-// const BODY = document.querySelector("body");
-//
-// let h1 = document.createElement("h1");
-// let text1 = document.createTextNode("JASON LUST");
-// h1.appendChild(text1);
-// BODY.appendChild(h1)
-//
-// function changeColor() {
-//     setTimeout(() => {
-//         setTimeout(() => {
-//             setTimeout(() => {
-//                 changeColor(); h1.setAttribute("style", "color: #68eda2;");
-//             }, 500); h1.setAttribute("style", "color: #68d3ed;");
-//         }, 500); h1.setAttribute("style", "color: #ed6d4a");
-//     }, 500);
-// }
-//
-// changeColor()
-
 var debug = true;
 
 var head = document.querySelector(".main");
